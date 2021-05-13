@@ -4,4 +4,6 @@
 lasso to catch coins<br>
 ● To compile using the simplecpp compiler installed in the system,<br>
 s++-olassolasso.cppMovingObject.cppcoin.cppmain.cpp<br>
-● Run the program after compiling by typing ​./lasso
+● Run the program after compiling by typing ​./lasso<br><br>
+
+If you need to install simplecpp go to <br> https://www.cse.iitb.ac.in/~ranade/simplecpp/
